@@ -11,6 +11,7 @@ public class Websocket01Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Websocket01Application.class, args);
+		System.out.println("hello");
 	}
 
 }
